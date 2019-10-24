@@ -1,0 +1,22 @@
+{
+  "name": "node-worker-thread-sample",
+  "version": "0.1.0",
+  "description": "Some basic implementations of worker threads, mainly used for personal experimentation.",
+  "main": "basic-expensive-parallel/index.js",
+  "keywords": [
+    "node",
+    "worker",
+    "threads",
+    "worker_threads"
+  ],
+  "author": "Cahil Foley",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cahilfoley/node-worker-thread-samples"
+  },
+  "devDependencies": {
+    "@types/node": "^12.11.5",
+    "typescript": "^3.6.4"
+  }
+}
